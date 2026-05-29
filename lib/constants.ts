@@ -4,7 +4,7 @@ export const SITE_CONFIG = {
   tagline: 'Precision Accounting & Audit Advisory',
   description:
     'EU-compliant financial services across Slovakia, Netherlands & Germany.',
-  email: 'mmkservices@me.com',
+  email: 'poradenstvo@mmkservices.eu',
   phone: '+421 905 258 575',
   address: 'Mankovce 162, 951 91 Mankovce',
   countries: ['Slovakia', 'Netherlands', 'Germany'],
