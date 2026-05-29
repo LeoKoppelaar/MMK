@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "MMK Services | Účtovníctvo & Poradenstvo v oblasti auditu",
+    "description": "Účtovníctvo, audit a daňové poradenstvo v súlade s predpismi EÚ pre Slovensko, Holandsko a Nemecko."
+  },
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "cta": "Kontaktujte nás"
+  },
+  "hero": {
+    "eyebrow": "Finančné poradenstvo pre EÚ",
+    "headline1": "Presné",
+    "headline2": "účtovníctvo",
+    "headline3": "& auditné poradenstvo",
+    "subtitle": "Finančné služby v súlade s predpismi EÚ pre Slovensko, Holandsko a Nemecko — realizované s presnosťou, diskrétnosťou a hĺbkovými miestnymi znalosťami.",
+    "ctaServices": "Naše služby",
+    "ctaContact": "Kontaktujte nás",
+    "scroll": "Rolovať"
+  },
+  "trustBar": [
+    { "value": "3", "label": "Krajiny" },
+    { "value": "Slovak GAAP", "label": "Súlad" },
+    { "value": "IFRS", "label": "Pripravení" }
+  ],
+  "servicesOverview": {
+    "eyebrow": "Čo robíme",
+    "heading": "Hlavné oblasti služieb",
+    "subtitle": "Komplexné finančné služby navrhnuté pre prevádzku vo viacerých jurisdikciách EÚ.",
+    "learnMore": "Zistiť viac",
+    "viewAll": "Zobraziť všetkých 6 služieb"
+  },
+  "whyMMK": {
+    "eyebrow": "Prečo MMK Services",
+    "heading": "Odbornosť vo viacerých jurisdikciách, jeden kontaktný bod",
+    "body": "Správa finančných záväzkov vo viacerých krajinách EÚ je zložitá. Predpisy sa líšia, jazyky sa líšia, termíny sa líšia. MMK Services bola vytvorená práve na zvládnutie tejto zložitosti — poskytujeme vám jeden, dedikovaný poradenský tím, ktorý rozumie slovenským, holandským a nemeckým požiadavkám rovnako hlboko ako miestna firma, ale s koordináciou a konzistentnosťou špecialistu na viacero jurisdikcií.",
+    "aboutLink": "O firme",
+    "features": [
+      "Odbornosť v oblasti GAAP vo viacerých jurisdikciách naprieč 3 krajinami EÚ",
+      "Výkazy v súlade s IFRS pre cezhraničné skupinové štruktúry",
+      "Dedikovaný správca účtu s podporou v miestnom jazyku",
+      "Prísne spracovanie údajov v súlade s GDPR a dôvernosť"
+    ]
+  },
+  "ctaBanner": {
+    "eyebrow": "Pripravení začať?",
+    "heading": "Zjednodušte súlad s predpismi EÚ",
+    "subtitle": "Nechajte nás zvládnuť zložitosť naprieč hranicami. Jeden tím, tri krajiny, úplný súlad.",
+    "primaryBtn": "Dohodnite si konzultáciu",
+    "secondaryBtn": "Zobraziť služby"
+  },
+  "servicesPage": {
+    "eyebrow": "Čo ponúkame",
+    "heading": "Naše služby",
+    "subtitle": "Špecializované účtovníctvo, audit a daňové poradenstvo pre podniky pôsobiace vo viacerých jurisdikciách EÚ.",
+    "intro": "Každú službu poskytujú odborníci s hĺbkovými miestnymi znalosťami, čo zaručuje splnenie miestnych požiadaviek bez nutnosti riadenia viacerých miestnych firiem.",
+    "enquire": "Informovať sa",
+    "notSureHeading": "Nie ste si istí, ktorá služba vyhovuje vašim potrebám?",
+    "notSureBody": "Pošlite nám krátku správu o štruktúre vašej spoločnosti a jurisdikciách — do jedného pracovného dňa vám zašleme individuálne odporúčanie.",
+    "notSureCta": "Získajte bezplatné posúdenie"
+  },
+  "services": {
+    "accounting": {
+      "title": "Účtovníctvo & vedenie kníh",
+      "description": "Komplexné vedenie kníh v súlade s miestnymi normami GAAP naprieč všetkými jurisdikciami.",
+      "fullDescription": "Naše služby účtovníctva a vedenia kníh poskytujú komplexnú správu finančných záznamov, čo zaručuje úplný súlad s miestnymi normami GAAP na Slovensku, v Holandsku a Nemecku. Zabezpečujeme nastavenie účtovnej osnovy, mesačné uzávierky, bankové odsúhlasenia a prípravu účtovných závierok."
+    },
+    "consolidated-reporting": {
+      "title": "Konsolidované výkazníctvo",
+      "description": "Skupinová konsolidácia a konsolidované výkazy v súlade s IFRS pre viacsubjektové štruktúry EÚ.",
+      "fullDescription": "Pripravujeme konsolidované účtovné závierky podľa IFRS a miestnych štandardov GAAP pre zložité skupinové štruktúry. Náš tím riadi eliminácie vnútroskupinových transakcií, prepočet cudzích mien a výpočty menšinových podielov, čím dodáva prehľadné, audítorsky pripravené konsolidačné balíky."
+    },
+    "audit": {
+      "title": "Audit & uistenie",
+      "description": "Príprava pracovných dokumentov auditu, podpora zákonného auditu a uisťovacie služby pre subjekty EÚ.",
+      "fullDescription": "Podporujeme procesy zákonného auditu prípravou komplexných pracovných dokumentov, podrobných dokumentačných balíkov a vybavovaním požiadaviek audítorov. Naše uisťovacie služby zahŕňajú preskúmania vnútornej kontroly a dohodnuté postupy, čím poskytujú istotu o kvalite finančného výkazníctva."
+    },
+    "tax": {
+      "title": "Daňové priznania (DPH/DPPO)",
+      "description": "Daňové priznania k DPH, daňové priznania k dani z príjmov právnických osôb a cezhraničný daňový súlad pre SK, NL a DE.",
+      "fullDescription": "Spravujeme registráciu DPH, periodické daňové priznania a daňové priznania k dani z príjmov právnických osôb naprieč všetkými tromi jurisdikciami. Náš daňový tím sleduje miestne legislatívne zmeny a zabezpečuje včasné a presné podávanie správ, čím minimalizuje riziko nedodržania a penalizácie."
+    },
+    "payroll": {
+      "title": "Správa miezd",
+      "description": "Komplexné spracovanie miezd, odvody sociálneho poistenia a súlad s daňou z príjmov zo zamestnania.",
+      "fullDescription": "Naše mzdové služby zahŕňajú výpočty hrubej mzdy na čistú mzdu, zákonné odpočty, odvody sociálneho a zdravotného poistenia a generovanie výplatných pások. Zabezpečujeme úplný súlad s miestnym pracovným právom a spravujeme všetky mesačné mzdové hlásenia."
+    },
+    "due-diligence": {
+      "title": "Podpora due diligence",
+      "description": "Finančná hĺbková analýza pri transakciách M&A, reportovanie pre investorov a cezhraničná reštrukturalizácia.",
+      "fullDescription": "Poskytujeme podporu finančnej due diligence pri akvizíciách, investíciách a transakciách podnikovej reštrukturalizácie. Naše výstupy zahŕňajú analýzu kvality zárobkov, odsúhlasenie normalizovanej EBITDA, posúdenia pracovného kapitálu a správy o červených vlajkách."
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "Firma",
+    "heading": "O MMK Services",
+    "subtitle": "Špecializovaná poradenská spoločnosť v oblasti financií EÚ, postavená na presnosti, diskrétnosti a cezhraničných odborných znalostiach.",
+    "whoEyebrow": "Kto sme",
+    "whoHeading": "Vytvorení pre zložitosť prevádzky v EÚ",
+    "body1": "MMK Services bola založená, aby zaplnila špecifickú medzeru: rastúce európske podniky potrebujú účtovnícke a poradenské tímy, ktoré rozumejú regulačnému prostrediu viacerých jurisdikcií naprieč Európou.",
+    "body2": "Pôsobíme na Slovensku, v Holandsku a Nemecku a kombinujeme hĺbkové miestne odborné znalosti s koordináciou jedného integrovaného tímu. Naši klienti sú súkromné spoločnosti expandujúce naprieč Európou aj medzinárodné skupiny s holdingovou štruktúrou v EÚ.",
+    "body3": "Hovoríme jazykom každej jurisdikcie — doslova aj regulačne — a preberáme bremeno súladu, aby ste sa mohli sústrediť na riadenie svojho podnikania.",
+    "glanceHeading": "Na prvý pohľad",
+    "glanceName": "Registrovaný názov",
+    "glanceFounded": "Rok založenia",
+    "glanceCountries": "Krajiny pôsobenia",
+    "glanceCountriesValue": "SK, NL, DE",
+    "glanceStandards": "Štandardy",
+    "glanceStandardsValue": "Slovak GAAP · NL GAAP · HGB · IFRS",
+    "missionEyebrow": "Naše poslanie",
+    "missionQuote": "Odstrániť trenie pri dodržiavaní predpisov EÚ vo viacerých jurisdikciách, aby každý klient mohol pôsobiť naprieč hranicami s rovnakou istotou ako doma.",
+    "valuesEyebrow": "Naše zásady",
+    "valuesHeading": "Čo riadi našu prácu",
+    "teamEyebrow": "Tím",
+    "teamHeading": "Náš tím",
+    "workHeading": "Spolupracujte s nami",
+    "workBody": "Či už zakladáte nový subjekt v EÚ alebo potrebujete priebežnú poradenskú podporu, sme pripravení pomôcť.",
+    "workCta": "Kontaktujte nás"
+  },
+  "values": [
+    {
+      "title": "Presnosť",
+      "description": "Poskytujeme starostlivú, bezchybnú prácu — pretože v účtovníctve záleží na každej desatinnej čiarke a každý termín je záväzok."
+    },
+    {
+      "title": "Dôvernosť",
+      "description": "Údaje klientov sú spracovávané s najvyššími štandardmi profesionálnej diskrétnosti, úplným súladom s GDPR a bezpečnou infraštruktúrou."
+    },
+    {
+      "title": "Pohotovosť",
+      "description": "Včasná, jasná komunikácia naprieč časovými pásmami a jurisdikciami — vždy máte jeden kontaktný bod a priamu odpoveď."
+    }
+  ],
+  "team": [
+    {
+      "name": "M. Kováč",
+      "title": "Riadiaci partner",
+      "country": "🇸🇰",
+      "countryName": "Slovensko",
+      "bio": "Viac ako 15 rokov skúseností v oblasti zákonného účtovníctva a finančného poradenstva v strednej Európe."
+    },
+    {
+      "name": "A. van Berg",
+      "title": "Vedúci daňového poradenstva",
+      "country": "🇳🇱",
+      "countryName": "Holandsko",
+      "bio": "Odborník na cezhraničné štruktúry DPH v EÚ, dokumentáciu transferového oceňovania a holandskú daň z príjmov právnických osôb."
+    }
+  ],
+  "contactPage": {
+    "eyebrow": "Kontaktujte nás",
+    "heading": "Kontaktujte MMK Services",
+    "subtitle": "Ozvite sa nám a prediskutujte vaše potreby — na všetky otázky odpovedáme do jedného pracovného dňa.",
+    "directEyebrow": "Priamy kontakt",
+    "directHeading": "Sme tu, aby sme pomohli",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Telefón",
+    "addressLabel": "Adresa",
+    "responseLabel": "Čas odozvy",
+    "responseBody": "Snažíme sa odpovedať na všetky otázky do 1 pracovného dňa. V naliehavých prípadoch nás prosím kontaktujte telefonicky.",
+    "formHeading": "Pošlite nám správu",
+    "nameLabel": "Celé meno",
+    "emailFieldLabel": "E-mailová adresa",
+    "companyLabel": "Spoločnosť",
+    "subjectLabel": "Predmet",
+    "messageLabel": "Správa",
+    "submitBtn": "Odoslať správu",
+    "sending": "Odosielanie…",
+    "successHeading": "Správa prijatá",
+    "successBody": "Ďakujeme za váš záujem. Člen nášho tímu vás bude kontaktovať do jedného pracovného dňa.",
+    "sendAnother": "Odoslať ďalšiu správu",
+    "errorMsg": "Niečo sa pokazilo. Skúste to znova alebo nám napíšte priamo.",
+    "gdprNote": "Vaše údaje sú spracovávané v súlade s GDPR. Vaše informácie nikdy nezdieľame s tretími stranami.",
+    "namePlaceholder": "Ján Novák",
+    "emailPlaceholder": "jan@spolocnost.sk",
+    "companyPlaceholder": "Acme s.r.o.",
+    "messagePlaceholder": "Opíšte vaše potreby — jurisdikcie, typ spoločnosti, aktuálna situácia...",
+    "subjects": [
+      "Účtovníctvo & vedenie kníh",
+      "Konsolidované výkazníctvo",
+      "Audit & uistenie",
+      "Daňové priznania (DPH/DPPO)",
+      "Správa miezd",
+      "Podpora due diligence",
+      "Iné"
+    ]
+  },
+  "footer": {
+    "tagline": "Účtovníctvo, audit a daňové poradenstvo v súlade s predpismi EÚ pre podniky pôsobiace v strednej a západnej Európe.",
+    "navigation": "Navigácia",
+    "contact": "Kontakt",
+    "rights": "Všetky práva vyhradené.",
+    "advisory": "Účtovníctvo & auditné poradenstvo naprieč EÚ"
+  }
+}

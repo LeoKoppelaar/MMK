@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "MMK Services | Accounting & Audit Advisory",
+    "description": "EU-compliant accounting, audit, and tax advisory services across Slovakia, Netherlands, and Germany."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "hero": {
+    "eyebrow": "EU Financial Advisory",
+    "headline1": "Precision",
+    "headline2": "Accounting",
+    "headline3": "& Audit Advisory",
+    "subtitle": "EU-compliant financial services across Slovakia, Netherlands & Germany — delivered with precision, discretion, and deep local expertise.",
+    "ctaServices": "Our Services",
+    "ctaContact": "Contact Us",
+    "scroll": "Scroll"
+  },
+  "trustBar": [
+    { "value": "3", "label": "Countries" },
+    { "value": "Slovak GAAP", "label": "Compliant" },
+    { "value": "IFRS", "label": "Ready" }
+  ],
+  "servicesOverview": {
+    "eyebrow": "What We Do",
+    "heading": "Core Service Areas",
+    "subtitle": "End-to-end financial services designed for EU multi-jurisdiction operations.",
+    "learnMore": "Learn More",
+    "viewAll": "View all 6 services"
+  },
+  "whyMMK": {
+    "eyebrow": "Why MMK Services",
+    "heading": "Multi-jurisdiction expertise, single point of contact",
+    "body": "Managing financial obligations across multiple EU countries is complex. Regulations differ, languages differ, deadlines differ. MMK Services was built to handle exactly this complexity — giving you a single, dedicated advisory team that understands Slovak, Dutch, and German requirements at the same depth a local firm would, but with the coordination and consistency only a multi-jurisdiction specialist can provide.",
+    "aboutLink": "About the firm",
+    "features": [
+      "Multi-jurisdiction GAAP expertise across 3 EU countries",
+      "IFRS-compliant statements for cross-border group structures",
+      "Dedicated account manager with local-language support",
+      "Strict GDPR-compliant data handling and confidentiality"
+    ]
+  },
+  "ctaBanner": {
+    "eyebrow": "Ready to Get Started?",
+    "heading": "Simplify your EU financial compliance",
+    "subtitle": "Let us handle the complexity across borders. One team, three countries, full compliance.",
+    "primaryBtn": "Schedule a Consultation",
+    "secondaryBtn": "View Services"
+  },
+  "servicesPage": {
+    "eyebrow": "What We Offer",
+    "heading": "Our Services",
+    "subtitle": "Specialised accounting, audit, and tax advisory for EU multi-jurisdiction businesses — built around your operational reality.",
+    "intro": "Each service is delivered by specialists with deep in-country expertise, ensuring you meet local requirements without the overhead of managing multiple local firms.",
+    "enquire": "Enquire",
+    "notSureHeading": "Not sure which service fits your needs?",
+    "notSureBody": "Send us a short note about your business structure and jurisdictions — we will come back with a tailored recommendation within one business day.",
+    "notSureCta": "Get a Free Assessment"
+  },
+  "services": {
+    "accounting": {
+      "title": "Accounting & Bookkeeping",
+      "description": "Comprehensive bookkeeping compliant with local GAAP standards across all operating jurisdictions.",
+      "fullDescription": "Our accounting and bookkeeping services provide end-to-end financial record management, ensuring full compliance with local GAAP standards in Slovakia, Netherlands, and Germany. We handle chart of accounts setup, monthly closings, bank reconciliations, and financial statement preparation — giving you a clean, audit-ready ledger at every reporting date."
+    },
+    "consolidated-reporting": {
+      "title": "Consolidated Reporting",
+      "description": "Group consolidation and IFRS-compliant financial statements for multi-entity EU structures.",
+      "fullDescription": "We prepare consolidated financial statements under IFRS and local GAAP for complex group structures. Our team manages intercompany eliminations, foreign currency translation, and minority interest calculations, delivering clear, auditor-ready consolidation packages that meet EU regulatory expectations."
+    },
+    "audit": {
+      "title": "Audit & Assurance",
+      "description": "Audit workpaper preparation, statutory audit support, and assurance services for EU entities.",
+      "fullDescription": "We support statutory audit processes by preparing comprehensive audit workpapers, detailed documentation packages, and facilitating auditor requests. Our assurance services extend to internal control reviews and agreed-upon procedures, providing confidence in the quality and reliability of your financial reporting."
+    },
+    "tax": {
+      "title": "Tax Filings (VAT/CIT)",
+      "description": "VAT returns, corporate income tax filings, and cross-border tax compliance across SK, NL, and DE.",
+      "fullDescription": "We manage VAT registration, periodic returns, and corporate income tax filings across all three jurisdictions. Our tax team stays current with local legislative changes, ensuring timely and accurate submissions that minimise compliance risk and avoid penalties. We also advise on cross-border transfer pricing documentation."
+    },
+    "payroll": {
+      "title": "Payroll Administration",
+      "description": "End-to-end payroll processing, social security contributions, and employment tax compliance.",
+      "fullDescription": "Our payroll services cover gross-to-net calculations, statutory deductions, social and health insurance contributions, and payslip generation. We ensure full compliance with local labour law, handle all payroll-related monthly filings, and provide clear payroll reports for management review."
+    },
+    "due-diligence": {
+      "title": "Due Diligence Support",
+      "description": "Financial due diligence for M&A transactions, investor reporting, and cross-border restructuring.",
+      "fullDescription": "We provide financial due diligence support for acquisitions, investments, and corporate restructuring transactions. Our deliverables include quality of earnings analysis, normalised EBITDA bridges, working capital assessments, and red-flag reports — all tailored to the expectations of investors, lenders, and transaction advisors."
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "The Firm",
+    "heading": "About MMK Services",
+    "subtitle": "A specialist EU financial advisory firm built on precision, discretion, and cross-border expertise.",
+    "whoEyebrow": "Who We Are",
+    "whoHeading": "Built for the complexity of EU operations",
+    "body1": "MMK Services was founded to fill a specific gap: growing European businesses need accounting and advisory teams that understand the regulatory environments of multiple jurisdictions across Europe.",
+    "body2": "We operate across Slovakia, the Netherlands, and Germany, combining deep local expertise with the coordination of a single, integrated team. Our clients range from privately held companies expanding across Europe to international groups with EU holding structures.",
+    "body3": "We speak the language of each jurisdiction — literally and regulatorily — and we handle the compliance burden so you can focus on running your business.",
+    "glanceHeading": "At a Glance",
+    "glanceName": "Registered Name",
+    "glanceFounded": "Founded",
+    "glanceCountries": "Operating Countries",
+    "glanceCountriesValue": "SK, NL, DE",
+    "glanceStandards": "Standards",
+    "glanceStandardsValue": "Slovak GAAP · NL GAAP · HGB · IFRS",
+    "missionEyebrow": "Our Mission",
+    "missionQuote": "To remove the friction of EU multi-jurisdiction compliance, so that every client can operate across borders with the same confidence as they do at home.",
+    "valuesEyebrow": "Our Principles",
+    "valuesHeading": "What guides our work",
+    "teamEyebrow": "The Team",
+    "teamHeading": "Our Team",
+    "workHeading": "Work with us",
+    "workBody": "Whether you are setting up a new EU entity or need ongoing advisory support, we are ready to help.",
+    "workCta": "Get in Touch"
+  },
+  "values": [
+    {
+      "title": "Precision",
+      "description": "We deliver meticulous, error-free work — because in accounting, every decimal matters and every deadline is a commitment."
+    },
+    {
+      "title": "Confidentiality",
+      "description": "Client data is handled with the highest standards of professional discretion, full GDPR compliance, and secure infrastructure."
+    },
+    {
+      "title": "Responsiveness",
+      "description": "Timely, clear communication across time zones and jurisdictions — you always have a single point of contact and a direct answer."
+    }
+  ],
+  "team": [
+    {
+      "name": "M. Kováč",
+      "title": "Managing Partner",
+      "country": "🇸🇰",
+      "countryName": "Slovakia",
+      "bio": "Over 15 years of experience in statutory accounting and financial advisory across Central Europe."
+    },
+    {
+      "name": "A. van Berg",
+      "title": "Tax Advisory Lead",
+      "country": "🇳🇱",
+      "countryName": "Netherlands",
+      "bio": "Expert in EU cross-border VAT structures, transfer pricing documentation, and Dutch corporate tax compliance."
+    }
+  ],
+  "contactPage": {
+    "eyebrow": "Get in Touch",
+    "heading": "Contact MMK Services",
+    "subtitle": "Reach out to discuss your needs — we respond to all enquiries within one business day.",
+    "directEyebrow": "Direct Contact",
+    "directHeading": "We're here to help",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "responseLabel": "Response Time",
+    "responseBody": "We aim to respond to all enquiries within 1 business day. For urgent matters, please call us directly.",
+    "formHeading": "Send us a message",
+    "nameLabel": "Full Name",
+    "emailFieldLabel": "Email Address",
+    "companyLabel": "Company",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "submitBtn": "Send Message",
+    "sending": "Sending…",
+    "successHeading": "Message received",
+    "successBody": "Thank you for reaching out. A member of our team will be in touch within one business day.",
+    "sendAnother": "Send another message",
+    "errorMsg": "Something went wrong. Please try again or email us directly.",
+    "gdprNote": "Your data is handled in accordance with GDPR. We will never share your information with third parties.",
+    "namePlaceholder": "Jan Novák",
+    "emailPlaceholder": "jan@company.com",
+    "companyPlaceholder": "Acme s.r.o.",
+    "messagePlaceholder": "Describe your needs — jurisdiction(s), company type, current situation...",
+    "subjects": [
+      "Accounting & Bookkeeping",
+      "Consolidated Reporting",
+      "Audit & Assurance",
+      "Tax Filings (VAT/CIT)",
+      "Payroll Administration",
+      "Due Diligence Support",
+      "Other"
+    ]
+  },
+  "footer": {
+    "tagline": "EU-compliant accounting, audit, and tax advisory services for businesses operating across Central and Western Europe.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "advisory": "Accounting & Audit Advisory across the EU"
+  }
+}
